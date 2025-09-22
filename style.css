@@ -1,0 +1,9 @@
+.gallery{
+    display: flex;
+    flex-direction: row;
+}
+
+.gallery img {
+  width: 25%;
+  height: 250px;
+}
